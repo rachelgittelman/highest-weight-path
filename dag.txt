@@ -1,0 +1,30 @@
+v	i
+v	ii
+v	iii
+v	iv
+v	v
+v	vi
+v	vii
+v	viii
+v	ix
+v	x
+v	xi
+v	xii
+v	xiii
+e	A	i	iv	3
+e	B	i	v	6
+e	C	i	vi	1
+e	D	ii	iii	9
+e	E	ii	vii	-5
+e	F	iii	vi	-4
+e	G	iii	x	-1
+e	H	v	vi	-6
+e	I	iv	viii	5
+e	J	v	xii	-5
+e	K	vi	ix	8
+e	L	x	xiii	2
+e	M	vii	xi	5
+e	N	viii	xii	-8
+e	O	ix	xii	-6
+e	P	ix	xiii	-2
+e	Q	xi	xiii	8
